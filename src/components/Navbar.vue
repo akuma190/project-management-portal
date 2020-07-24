@@ -35,8 +35,8 @@ export default {
              drawer:false,
              links:[
                  {icon:'mdi-home',text:'Dashboard',route:'/'},
-                 {icon:'mdi-home',text:'Dashboard1',route:'/projects'},
-                 {icon:'mdi-home',text:'Dashboard1',route:'/team'}
+                 {icon:'mdi-home',text:'My Projects',route:'/projects'},
+                 {icon:'mdi-home',text:'Team',route:'/team'}
              ]
          }
      }
